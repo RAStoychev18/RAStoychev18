@@ -5,7 +5,7 @@
   position: Bulgaria; 
   height: 180cm; 
   display: boy; 
-  background: Tinker Resolver 🔨; 
+  background: Techie 🔨; 
   color: #E8BEAC; 
 }
 ```
